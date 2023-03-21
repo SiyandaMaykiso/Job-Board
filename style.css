@@ -25,6 +25,9 @@ body {
     margin-top: 0;
   }
 
+  .apply-form {
+    margin: 20px;
+  }
   
   .apply-form h2 {
     margin-bottom: 10px;
