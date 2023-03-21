@@ -14,4 +14,12 @@ body {
   .jobs h2 {
     margin-bottom: 10px;
   }
+  .jobs li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
   
+  .jobs h3 {
+    margin-top: 0;
+  }
