@@ -2,7 +2,7 @@
 
  This job board allows employers to post job openings and job seekers to apply for those jobs
  
- ## Link to deployed application:
+ ## Link to deployed application:https://siyandamaykiso.github.io/Job-Board/
 
 ## Features
 
