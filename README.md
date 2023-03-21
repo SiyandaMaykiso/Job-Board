@@ -3,6 +3,11 @@
  This job board allows employers to post job openings and job seekers to apply for those jobs
  
  ### Link to deployed application: https://siyandamaykiso.github.io/Job-Board/
+ 
+ ### Screenshot:
+ 
+ <img src="https://github.com/SiyandaMaykiso/Job-Board/blob/main/Screenshot%20of%20Job%20Board.png" alt="application screenshot">
+
 
 ## Features
 
