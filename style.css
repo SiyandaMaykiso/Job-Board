@@ -32,3 +32,12 @@ body {
   .apply-form h2 {
     margin-bottom: 10px;
   }
+
+  .apply-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .apply-form label {
+    margin-bottom: 10px;
+  }
